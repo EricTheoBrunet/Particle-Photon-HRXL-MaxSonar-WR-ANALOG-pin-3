@@ -17,7 +17,7 @@ void setup() {
 }
 
 void readSensor(){
-    Vcc = 3.25;
+    Vcc = 3.25; // may vary and should be measured 
     V5mm = ((Vcc / band) * 1000); // convert to mV
 
     maxSonarSensor_mV = analogRead(maxSonarSensor);
