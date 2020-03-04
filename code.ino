@@ -2,7 +2,7 @@
 /**********************************************************************************************  
 * Particle Photon - HRXL-MaxSonar-WR -> ANALOG pin 5
 * Author: Eric Brunet
-* Website: www.ericbrunet.ca
+* Website: http://www.ericbrunet.ca
 * References:
 * - https://www.maxbotix.com/tutorials6/032-using-analog-voltage-pin-3.htm
 **********************************************************************************************/
